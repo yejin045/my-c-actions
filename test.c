@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, GitHub Actions!\n");
+    printf("Hello again!\n");
     return 0;
 }
