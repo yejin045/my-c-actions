@@ -1,4 +1,5 @@
 all:
-  gcc test.c
+	gcc test.c
+
 test:
-  ./a.out
+	./a.out
